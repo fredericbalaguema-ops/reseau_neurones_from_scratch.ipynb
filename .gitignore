@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.log
+cifar-10-batches-py/    # éviter d'envoyer les données CIFAR
+mnist.pkl
+.env
